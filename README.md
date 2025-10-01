@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lakshay Pal  
+# 👋 Hi, I'm Lucky Pal  
 
 🎯 Aspiring Machine Learning & Data Science Engineer | Turning Data into Real-World Solutions  
 
